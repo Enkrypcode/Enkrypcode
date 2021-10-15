@@ -1,4 +1,5 @@
 ![WELCOME GITHUB](https://user-images.githubusercontent.com/16408235/137416110-e21804b0-2de6-4768-8e03-6e075518eae1.png)
+![SKILL](https://user-images.githubusercontent.com/16408235/137419430-9f1828a4-d1d0-42d0-bd70-d43b5e29b195.png)
 # Hi Guys, I'm Kamal Fikri Nabawi or usually called Fikri / Enkrypton 👋
 
 ## I'm a Student, UI/UX Designer and also Front-End Developer + Gamer
@@ -23,6 +24,7 @@
 [<img align="left" alt="enkrypton | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 <br />
 
 ---
