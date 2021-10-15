@@ -1,9 +1,6 @@
 
 # Hi Guys, I'm Kamal Fikri Nabawi or usually called Fikri / Enkrypton 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.google.com)
-[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/kamalfikrii/)
-
 ## I'm a Student, UI/UX Designer and also Front-End Developer + Gamer
 - 🎨 I really like design jobs
 - 🎨 I Also like design using photoshop and also illustrator
