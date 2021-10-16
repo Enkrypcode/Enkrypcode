@@ -19,9 +19,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="enkrypton" width="30px" background-color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="enkrypton | LinkedIn" width="30px" src="https://img.icons8.com/fluency/96/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="enkrypton | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="enkrypton" width="50px" background-color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="enkrypton | LinkedIn" width="50px" src="https://img.icons8.com/fluency/96/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="enkrypton | Instagram" width="50px" src="https://img.icons8.com/fluency/144/000000/instagram-new.png" />][instagram]
 
 <br />
 
