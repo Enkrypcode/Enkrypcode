@@ -7,7 +7,7 @@
 - 🎨 I Also like design using photoshop and also illustrator
 - 👨‍💻 I really like developing Front-End Websites
 - 🎮 Games? Of course I also really like playing games. Especially strategy games like Dota 2
-- 🎯 My goal in 2021 is that I am ready with my internship in 2022
+- 🎯 I am ready with my internship in 2022. WISH ME LUCK!
 ---
 
 ## Another about me (Self-Description) :
