@@ -4,10 +4,10 @@
 
 ## I'm a Student, UI/UX Designer and also Front-End Developer + Gamer
 - 🎨 I really like design jobs
-- 🎨 I Also like design using photoshop and also illustrator
+- 🎨 I Also like design using photoshop and figma
 - 👨‍💻 I really like developing Front-End Websites
 - 🎮 Games? Of course I also really like playing games. Especially strategy games like Dota 2
-- 🎯 I am ready with my internship in 2022. WISH ME LUCK!
+- 🎯 Bismillah, I will become a successful intern at DANA Indonesia. Wish me luck!
 ---
 
 ## Another about me (Self-Description) :
