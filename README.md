@@ -2,7 +2,7 @@
 ![SKILL](https://user-images.githubusercontent.com/16408235/137423687-92756843-ebc5-486f-8ac2-9448fcd6b68a.png)
 # Hi Guys, I'm Kamal Fikri Nabawi or usually called Fikri / Enkrypton 👋
 
-## I'm a Student, Student Intern at DANA Indonesia, UI/UX Designer and also Front-End Developer + Gamer
+## I'm a Student at BINUD University and SDET Front-End Developer intern for DANA Indonesia
 - 🎨 I really like design jobs
 - 🎨 I Also like design using photoshop and figma
 - 👨‍💻 I really like developing Front-End Websites
