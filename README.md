@@ -2,7 +2,7 @@
 ![SKILL](https://user-images.githubusercontent.com/16408235/137423687-92756843-ebc5-486f-8ac2-9448fcd6b68a.png)
 # Hi Guys, I'm Kamal Fikri Nabawi or usually called Fikri / Enkrypton 👋
 
-## I'm a Student at BINUS University
+## I'm a Fresh Graduate from BINUS University
 - 🎨 I really like design jobs
 - 🎨 I also like design using photoshop and figma
 - 👨‍💻 I can make/develop a website because I understand Front-End
