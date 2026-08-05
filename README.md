@@ -10,7 +10,7 @@
 
 ## Another about me (Self-Description) :
 - 🤝 I’m someone who enjoys being active in organizations  
-- 🧠 My personality type is ENFP-A (based on 16Personalities), and I consider myself an extrovert  
+- 🧠 My personality type is ENFJ-A (based on 16Personalities), and I consider myself an extrovert  
 - 🤣 I love making jokes and having fun with both close and new friends  
 - 💼 I’m a disciplined, communicative, and hardworking individual  
 - 🎤 Fun fact: I love to sing!
